@@ -1,0 +1,7 @@
+user form task
+Setup Project
+composer update
+setup database
+php artisan migrate
+php artisan db:seed 
+php artisan serve
